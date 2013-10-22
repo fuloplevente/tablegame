@@ -1,4 +1,4 @@
-package serverclient;
+package AppServer;
 
 import java.sql.*;
 import com.softtech.jdbc.*;

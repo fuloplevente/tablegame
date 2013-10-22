@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package serverclient;
+package AppServer;
 
 import java.net.*;
 import java.io.*;
